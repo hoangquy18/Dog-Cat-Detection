@@ -1,2 +1,2 @@
-# Dog-Cat-Segmentation
+# Dog-Cat-Detection
 
